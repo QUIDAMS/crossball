@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/crossball/static/css/main.f9e5972c.chunk.css",
+    "main.js": "/crossball/static/js/main.1829a5e9.chunk.js",
+    "main.js.map": "/crossball/static/js/main.1829a5e9.chunk.js.map",
+    "runtime-main.js": "/crossball/static/js/runtime-main.a7fce3c5.js",
+    "runtime-main.js.map": "/crossball/static/js/runtime-main.a7fce3c5.js.map",
+    "static/js/2.e143ae25.chunk.js": "/crossball/static/js/2.e143ae25.chunk.js",
+    "static/js/2.e143ae25.chunk.js.map": "/crossball/static/js/2.e143ae25.chunk.js.map",
+    "index.html": "/crossball/index.html",
+    "static/css/main.f9e5972c.chunk.css.map": "/crossball/static/css/main.f9e5972c.chunk.css.map",
+    "static/js/2.e143ae25.chunk.js.LICENSE.txt": "/crossball/static/js/2.e143ae25.chunk.js.LICENSE.txt",
+    "static/media/Logo.bf1dfbc5.svg": "/crossball/static/media/Logo.bf1dfbc5.svg",
+    "static/media/Vector.bacc69c1.svg": "/crossball/static/media/Vector.bacc69c1.svg",
+    "static/media/ball.c8358164.svg": "/crossball/static/media/ball.c8358164.svg",
+    "static/media/down.0b1f1cbb.svg": "/crossball/static/media/down.0b1f1cbb.svg",
+    "static/media/up.dbb9ef10.svg": "/crossball/static/media/up.dbb9ef10.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7fce3c5.js",
+    "static/js/2.e143ae25.chunk.js",
+    "static/css/main.f9e5972c.chunk.css",
+    "static/js/main.1829a5e9.chunk.js"
+  ]
+}
