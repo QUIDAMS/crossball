@@ -11,3 +11,148 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+body {
+  margin: 0;
+  background-color: #f5f3f3b8;
+  font-family: Proxima Nova;
+  line-height: 110%;
+}
+
+* {
+	box-sizing: border-box;
+}
+li {
+  list-style-type: none; 
+ }
+ ul {
+  margin-left: 0; 
+  padding-left: 0; 
+  margin-bottom: 0;
+ }
+ .indentation{
+    padding: 0;
+    margin: 0;
+ }
+
+
+ .header__nav{
+  height: 80px;
+ }
+.header__list{
+	display: inline;
+	margin-right: 50px;
+	font-size: 16px;	
+}
+.header__ball{
+  padding: 8px 14px 8px 10px;
+
+}
+.content-container{
+  margin: 0 40px;
+}
+
+.header__season{
+	width: 70px;
+	height: 40px;
+	background-color: white;
+  border-radius: 5px;
+  margin-right: 50px;
+}
+.header__season{
+	display: inline-block;
+}
+.header__avatar{
+  border-radius: 50%;
+  border: solid 3px #5A60E7;
+}
+.header__vector{
+  margin-left: 12px;
+}
+.header__shadow{
+  box-shadow: 0 2px 4px 0px rgb(233 233 233);
+}
+/*section*/
+.position-bottom{
+  margin-bottom: 20px;
+}
+.section-position{
+  margin: 20px 0 247px 0;
+
+}
+
+.menu-side{
+  height: 800px;
+  width: 85%;
+  background: #FFFFFF;
+  box-shadow: 0px 2px 8px #E9E9E9;
+  border-radius: 10px;
+}
+
+.menu-side__plauer{
+  height: 184px;
+  border: solid 1px black;
+  background: linear-gradient(238.37deg, rgba(90, 96, 231, 0.35) 6.34%, rgba(30, 30, 40, 0) 103.77%), #2C2C2C;
+  border-radius: 10px;
+}
+.content-header{
+  width: 100%;
+  height: 184px;
+  background: linear-gradient(238.37deg, rgba(90, 96, 231, 0.35) 6.34%, rgba(30, 30, 40, 0) 103.77%), #2C2C2C;
+  border-radius: 10px;
+}
+.box__format{
+  width: 170px;
+  height: 40px;
+  background: white;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: center;
+  padding: 8px 10px;
+
+}
+.box__formatText{
+  font-size: 16px;
+  color: #909090;
+}
+
+/*table*/
+
+.table td, .table th {
+  border-top: none;
+}
+.table{
+  box-shadow: 0px 2px 8px #E9E9E9;
+  border-radius: 0px 0px 10px 10px;
+}
+.table__header{
+  background: #FFFFFF;
+  height: 40px;
+  border-bottom: solid 1px #D6D7F9;
+  color: #909090;
+  font-size: 12px;
+}
+.not-even{
+
+}
+.even{
+  background: #FFFFFF;
+}
+.arrows-filter{
+  display: grid;
+}
+.arrows-up{
+  float: left;
+  margin-bottom: 2px;
+}
+.arrows-button{
+  background: transparent;
+  border: none;
+
+}
+.footer-container{
+  height: 400px;
+  background-color: black;
+}
+
